@@ -1,15 +1,15 @@
 {
   "Schema": 1,
-  "Version": "0.35.1",
+  "Version": "0.36.0",
   "Channel": "desktop-preview",
   "Portable": {
-    "Url": "https://github.com/Aizen0721/yingmu-downloads/releases/download/v0.35.1/Yingmu-0.35.1-preview-windows-x64-portable.zip",
-    "Sha256": "5d4daf7c349c1ed7ddb78d9b265d21c5118bcd94889e5ae7ce0463829fce9530",
-    "Bytes": 174290717
+    "Url": "https://github.com/Aizen0721/yingmu-downloads/releases/download/v0.36.0/Yingmu-0.36.0-preview-windows-x64-portable.zip",
+    "Sha256": "f12be0467720c0e29538781c5fb0ff80d3f01689ca4b5e3738495c8b2f02c0c8",
+    "Bytes": 174313052
   },
   "Slim": {
-    "Url": "https://github.com/Aizen0721/yingmu-downloads/releases/download/v0.35.1/Yingmu-0.35.1-preview-windows-x64-slim.zip",
-    "Sha256": "b388f22beb869df522147057160c3aa32a732a1ba100f37b8203edf7fc3835db",
-    "Bytes": 100636809
+    "Url": "https://github.com/Aizen0721/yingmu-downloads/releases/download/v0.36.0/Yingmu-0.36.0-preview-windows-x64-slim.zip",
+    "Sha256": "87a6b9e3c3c06fc0efc52fe8add34e44efa79712901030c383ca3d4abdcb398f",
+    "Bytes": 100659114
   }
 }

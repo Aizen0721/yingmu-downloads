@@ -1,0 +1,23 @@
+{
+  "Schema": 1,
+  "Packs": [
+    {
+      "Id": "rainy-stop-music-eco",
+      "Version": "1.0.0",
+      "Name": "雨夜・歇腳店 · 省電與長配樂",
+      "Description": "720p / 15fps。雨夜便利商店，人物呼吸、眨眼，搭配緩慢光影。24秒畫面獨立循環；配樂約12分06秒，由現有Suno曲目循環編排。",
+      "Url": "https://github.com/Aizen0721/yingmu-downloads/releases/download/wallpapers-20261107/rainy-stop-music-eco-1.0.0.yingmu.zip",
+      "Bytes": 27472304,
+      "Sha256": "13f9bdfd57e0b4307493d7cdf84d9e02e07f7a82181bcd0eb2037d53ef7032a8"
+    },
+    {
+      "Id": "rainy-stop-music-hd",
+      "Version": "1.0.0",
+      "Name": "雨夜・歇腳店 · 原畫與長配樂",
+      "Description": "1080p / 24fps。雨夜便利商店，人物呼吸、眨眼，搭配緩慢光影。24秒畫面獨立循環；配樂約12分06秒，由現有Suno曲目循環編排。",
+      "Url": "https://github.com/Aizen0721/yingmu-downloads/releases/download/wallpapers-20261107/rainy-stop-music-hd-1.0.0.yingmu.zip",
+      "Bytes": 36899011,
+      "Sha256": "b8c704f2f8f75ce8c8c70d506ffca028e0ebdee78c695a8cc9261278a2c701ae"
+    }
+  ]
+}
