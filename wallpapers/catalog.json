@@ -48,30 +48,30 @@
     },
     {
       "Id": "harbor-first-light-music",
-      "Version": "1.0.0",
+      "Version": "1.1.0",
       "Name": "港口晨光 · 配樂版",
-      "Description": "漁船停在清晨的小港，淡橘晨光映在緩慢起伏的水面。 1080p、24fps、24 秒循環。 Suno 純音樂約 3 分 05 秒，與畫面獨立循環。",
-      "Url": "https://github.com/Aizen0721/yingmu-downloads/releases/download/wallpapers-quiet-worlds-music-v1/harbor-first-light-music-1.0.0.yingmu.zip",
-      "Bytes": 6088939,
-      "Sha256": "4495869c2f9f1db40ef00b579e3314149ee6ec6db3422122f81ceeed3657327a"
+      "Description": "漁船停在清晨的小港，淡橘晨光映在緩慢起伏的水面。 1080p、24fps、24 秒循環。 Suno A 版經首尾交疊剪輯，連播約 8 分 58 秒，與畫面獨立循環。",
+      "Url": "https://github.com/Aizen0721/yingmu-downloads/releases/download/wallpapers-quiet-worlds-music-v1.1/harbor-first-light-music-1.1.0.yingmu.zip",
+      "Bytes": 12486187,
+      "Sha256": "4db8cfff818177479f14ba493130a373e738b6e0bb0b5e8e38776d7e1ccbdea4"
     },
     {
       "Id": "cloudline-observatory-music",
-      "Version": "1.0.0",
+      "Version": "1.1.0",
       "Name": "雲海觀測站 · 配樂版",
-      "Description": "藍調時刻的山頂圓頂，星光微閃，山谷的雲霧緩緩流動。 1080p、24fps、24 秒循環。 Suno 純音樂約 3 分 18 秒，與畫面獨立循環。",
-      "Url": "https://github.com/Aizen0721/yingmu-downloads/releases/download/wallpapers-quiet-worlds-music-v1/cloudline-observatory-music-1.0.0.yingmu.zip",
-      "Bytes": 5944853,
-      "Sha256": "a2d16bb22e517da1aed6005fc16fe8875ce73c7585c0bf74c5bd636c8abb883e"
+      "Description": "藍調時刻的山頂圓頂，星光微閃，山谷的雲霧緩緩流動。 1080p、24fps、24 秒循環。 Suno A 版經首尾交疊剪輯，連播約 9 分 43 秒，與畫面獨立循環。",
+      "Url": "https://github.com/Aizen0721/yingmu-downloads/releases/download/wallpapers-quiet-worlds-music-v1.1/cloudline-observatory-music-1.1.0.yingmu.zip",
+      "Bytes": 13152612,
+      "Sha256": "ef0047ddd99eae3bd4d781fab322a12a64857c10bc145130bf7304a28fe66302"
     },
     {
       "Id": "fern-glasshouse-music",
-      "Version": "1.0.0",
+      "Version": "1.1.0",
       "Name": "雨後溫室 · 配樂版",
-      "Description": "光穿過玻璃屋頂，在濕潤石徑上微微變化，空氣中有細小浮塵。 1080p、24fps、24 秒循環。 Suno 純音樂約 3 分 13 秒，與畫面獨立循環。",
-      "Url": "https://github.com/Aizen0721/yingmu-downloads/releases/download/wallpapers-quiet-worlds-music-v1/fern-glasshouse-music-1.0.0.yingmu.zip",
-      "Bytes": 5907192,
-      "Sha256": "f007fc16e61789024bf03a33f818013c25c7cf6bfad8cea8204f9f83290c55b0"
+      "Description": "光穿過玻璃屋頂，在濕潤石徑上微微變化，空氣中有細小浮塵。 1080p、24fps、24 秒循環。 Suno A 版經首尾交疊剪輯，連播約 9 分 13 秒，與畫面獨立循環。",
+      "Url": "https://github.com/Aizen0721/yingmu-downloads/releases/download/wallpapers-quiet-worlds-music-v1.1/fern-glasshouse-music-1.1.0.yingmu.zip",
+      "Bytes": 12681713,
+      "Sha256": "35ec7ac4aa599ab4a82e6053c16fd4d33f80e17e18aaf96444239e9051a9057f"
     }
   ]
 }
