@@ -72,6 +72,15 @@
       "Url": "https://github.com/Aizen0721/yingmu-downloads/releases/download/wallpapers-quiet-worlds-music-v1.1/fern-glasshouse-music-1.1.0.yingmu.zip",
       "Bytes": 12681713,
       "Sha256": "35ec7ac4aa599ab4a82e6053c16fd4d33f80e17e18aaf96444239e9051a9057f"
+    },
+    {
+      "Id": "warm-light",
+      "Version": "1.1.0",
+      "Name": "暖光迴路",
+      "Description": "雨夜書桌，檯燈、杯口蒸氣與窗上雨滴微動。1080p、24 秒畫面循環。附約 3 分 47 秒的〈暖光迴路〉配樂，音樂與畫面分開循環。",
+      "Url": "https://github.com/Aizen0721/yingmu-downloads/releases/download/wallpapers-warm-light-v1.1/warm-light-1.1.0.yingmu.zip",
+      "Bytes": 5925569,
+      "Sha256": "8ac8e3b69d455e700a98ae76e0c1acacaf9b515727fa6e481b3054f741286c4c"
     }
   ]
 }
